@@ -1,0 +1,7 @@
+{
+  "name": "fail-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
